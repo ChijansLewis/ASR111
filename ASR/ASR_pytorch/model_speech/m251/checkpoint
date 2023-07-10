@@ -1,0 +1,2 @@
+model_checkpoint_path: "speech_model251_e_0_step_900.model.base"
+all_model_checkpoint_paths: "speech_model251_e_0_step_900.model.base"
